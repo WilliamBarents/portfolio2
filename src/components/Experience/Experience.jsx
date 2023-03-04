@@ -35,8 +35,15 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>Scss</h4>
+                <h4>Less</h4>
                 <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Bootstrap</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
@@ -51,6 +58,13 @@ const Experience = () => {
               <div>
                 <h4>React.Js</h4>
                 <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Redux</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
